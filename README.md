@@ -1,5 +1,6 @@
 # 🎃 Responsive Halloween Website 🎃
 ## [EXO mis varones XD](https://www.youtube.com/watch?v=KSH-FVVtTf0)
+stan EXO para una mejor vida
 ### Clonando repositorio jajaja
 
 - Responsive Halloween Website Using HTML, CSS & JavaScript.
